@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hitesh617
+- 👋 Hi, I’m Hitesh Gohil
 - 👀 I’m interested in computer progamming...
 - 🌱 I’m currently learning **Python | Django | SQL | Tkinter **
 - 👯 I’m looking to collaborate on **Open-Source Projects**
